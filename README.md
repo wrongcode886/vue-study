@@ -1,3 +1,3 @@
-#Vue.js study demo
+Vue.js 练习demo
 
 
